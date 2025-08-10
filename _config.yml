@@ -21,7 +21,7 @@ title                    : "Eunbee Hwang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Eunbee Hwang"
-description              : "M.S. student at Seoul National University (SNU) "
+description              : # "description"
 url                      : "https://beehivefor.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      # url: "https://youtube.com/@beehivefor"
 
 # Site Footer
 footer:
