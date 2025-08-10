@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      # url: "https://youtube.com/@beehivefor"
+      url: "https://youtube.com/@beehivefor"
 
 # Site Footer
 footer:
