@@ -136,7 +136,7 @@ author:
       url: "https://github.com/beehivefor"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/@abouteunbee"
+      # url: "https://instagram.com/@abouteunbee"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@beehivefor"
