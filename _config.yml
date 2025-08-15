@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/@abouteunbee"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/@hivefor"
+      # url: "https://youtube.com/"
 
 # Site Footer
 footer:
